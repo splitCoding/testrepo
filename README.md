@@ -1,4 +1,4 @@
-# effective_java_study
+e_jdfdfva_study
 ### 책 - 이펙티브 자바 3판
 
 ## 기간
